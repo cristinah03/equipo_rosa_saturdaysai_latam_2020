@@ -2,12 +2,16 @@
 
 En el siguiente repositorio se encuentran los documentos, datos y _notebooks_ que fueron usados para la realización del proyecto **AI for Secure Driving** realizado como producto final de la **Primera Edición Remota de [Saturdays.AI - LATAM](https://www.saturdays.ai/edicion-latam.html),** organizada por [**Saturdays.AI**](https://www.saturdays.ai/)
 
+[saturdaysai_latam_2020]()
+
 ## ¿Qué es Saturdays.AI?
 Saturdays.AI es una organización de impacto social con la misión de impulsar a las personas a que aprendan Inteligencia Artificial de manera colaborativa a la par de estar realizando un proyecto de impacto social.
 
 ## Equipo Rosa: Miembros y Mentora
 **Mentora:**
 * [Dra. Lea Vega Romero](https://www.linkedin.com/in/lea-vega-66a18011b/) : Maestra y Doctora en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Campus Guadalajara.
+
+(imagen Lea + Logo SaturdaysAI)
 
 **Miembros:**
 
@@ -18,14 +22,19 @@ Saturdays.AI es una organización de impacto social con la misión de impulsar a
 * [Alexander Saravia](https://www.linkedin.com/in/alexander-saravia/): Desarrolló el papel de **Desarrollador Backend/Model Deployment** estando a cargo de
 * [Winter Emmanuel Alava Intriago](https://www.linkedin.com/in/winter-alava/): Desarrolló el papel de **Desarrollador Móvil - UX/UI** estando a cargo de
 
+![equipo](figures/equipo_rosa_saturdaysai.jpg)
 
 ## Objetivos de Safe Driver
 Los accidentes de tránsito parecen ser multidimensionales y aleatorios pero una sola ocurrencia puede llevar a una cadena de eventos catastróficos que van más alla de daños al vehículo, tambien hay vidas humanas en riesgo. Es por eso que con Safe Driver nos vamos aproximando a una solución a esta problemática: Inteligencia Artificial para la predicción de accidentes de tránsito.
+
+![safe_driver_logo](figures/SafeDriver_Logo.png)
 
 ## Artículo de Medium
 Para saber a detalle el proceso del desarrollo les invitamos a leer los 2 artículos escritos en Medium donde explicamos lo que realizamos junto con las visualizaciones de nuestros resultados:
 * [AI for Secure Driving (Pt I)](https://www.medium.com)
 * [AI for Secure Driving (Pt II)](https://www.medium.com)
+
+(imagenes de los artículos)
 
 ## Liberías necesarias
 
