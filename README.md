@@ -2,7 +2,7 @@
 
 En el siguiente repositorio se encuentran los documentos, datos y _notebooks_ que fueron usados para la realización del proyecto **AI for Secure Driving** realizado como producto final de la **Primera Edición Remota de [Saturdays.AI - LATAM](https://www.saturdays.ai/edicion-latam.html),** organizada por [**Saturdays.AI**](https://www.saturdays.ai/)
 
-[saturdaysai_latam_2020]()
+![saturdaysai_latam_2020](figures/LogoLatam.png)
 
 ## ¿Qué es Saturdays.AI?
 Saturdays.AI es una organización de impacto social con la misión de impulsar a las personas a que aprendan Inteligencia Artificial de manera colaborativa a la par de estar realizando un proyecto de impacto social.
@@ -11,7 +11,7 @@ Saturdays.AI es una organización de impacto social con la misión de impulsar a
 **Mentora:**
 * [Dra. Lea Vega Romero](https://www.linkedin.com/in/lea-vega-66a18011b/) : Maestra y Doctora en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Campus Guadalajara.
 
-(imagen Lea + Logo SaturdaysAI)
+![lea_saturdaysai](figures/mentora_Lea_saturdaysai_latam.jpg)
 
 **Miembros:**
 
