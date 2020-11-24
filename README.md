@@ -1,6 +1,6 @@
 # AI for Secure Driving ( _Safe Driver_ App) : Repositorio
 
-En el siguiente repositorio se encuentran los documentos, datos y _notebooks_ que fueron usados para la realización del proyecto **AI for Secure Driving** realizado como producto final de la **Primera Edición Remota de [Saturdays.AI - LATAM](https://www.saturdays.ai/edicion-latam.html)** , organizada por [**Saturdays.AI**](https://www.saturdays.ai/)
+En el siguiente repositorio se encuentran los documentos, datos y _notebooks_ que fueron usados para la realización del proyecto **AI for Secure Driving** realizado como producto final de la **Primera Edición Remota de [Saturdays.AI - LATAM](https://www.saturdays.ai/edicion-latam.html),** organizada por [**Saturdays.AI**](https://www.saturdays.ai/)
 
 ## ¿Qué es Saturdays.AI?
 Saturdays.AI es una organización de impacto social con la misión de impulsar a las personas a que aprendan Inteligencia Artificial de manera colaborativa a la par de estar realizando un proyecto de impacto social.
