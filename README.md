@@ -1,4 +1,4 @@
-# AI for Secure Driving (Safe Driver App) : Repositorio
+# AI for Secure Driving ( _Safe Driver_ App) : Repositorio
 
 En el siguiente repositorio se encuentran los documentos, datos y _notebooks_ que fueron usados para la realización del proyecto **AI for Secure Driving** realizado como producto final de la **Primera Edición Remota de [Saturdays.AI - LATAM](https://www.saturdays.ai/edicion-latam.html)** , organizada por [**Saturdays.AI**](https://www.saturdays.ai/)
 
@@ -19,14 +19,13 @@ Saturdays.AI es una organización de impacto social con la misión de impulsar a
 * [Winter Emmanuel Alava Intriago](https://www.linkedin.com/in/winter-alava/): Desarrolló el papel de **Desarrollador Móvil - UX/UI** estando a cargo de
 
 
-## Objetivos de "AI for Secure Driving"
-(...)
+## Objetivos de Safe Driver
+Los accidentes de tránsito parecen ser multidimensionales y aleatorios pero una sola ocurrencia puede llevar a una cadena de eventos catastróficos que van más alla de daños al vehículo, tambien hay vidas humanas en riesgo. Es por eso que con Safe Driver nos vamos aproximando a una solución a esta problemática: Inteligencia Artificial para la predicción de accidentes de tránsito.
 
 ## Artículo de Medium
-Para saber del proceso del desarrollo les invitamos a leer los 3 artículos escritos en Medium donde explicamos a detalle lo que realizamos junto con visualizaciones de nuestros resultados:
+Para saber a detalle el proceso del desarrollo les invitamos a leer los 2 artículos escritos en Medium donde explicamos lo que realizamos junto con las visualizaciones de nuestros resultados:
 * [AI for Secure Driving (Pt I)](https://www.medium.com)
 * [AI for Secure Driving (Pt II)](https://www.medium.com)
-* [AI for Secure Driving (Pt III)](https://www.medium.com)
 
 ## Liberías necesarias
 
