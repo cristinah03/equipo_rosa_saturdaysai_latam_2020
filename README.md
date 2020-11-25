@@ -10,18 +10,18 @@ Saturdays.AI es una organización con la misión de impulsar a las personas a qu
 ## Equipo Rosa: Miembros y Mentora
 
 **Mentora:**
-* [Dra. Lea Vega Romero](https://www.linkedin.com/in/lea-vega-66a18011b/) : Maestra y Doctora en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Campus Guadalajara.
+* [Dra. Lea Vega Romero](https://www.linkedin.com/in/lea-vega-66a18011b/) :mexico: : Maestra y Doctora en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Campus Guadalajara.
 
 ![lea_saturdaysai](figures/mentora_Lea_saturdaysai_latam.jpg)
 
 **Miembros:**
 
-* [Cristina Higuera](https://www.linkedin.com/in/cristinah03/): Lic Tecnologías de Información, estudiante de Maestría en Informática Aplicada. Se desempeñó como **Product Manager** del proyecto.
-* [Isaac Arroyo](https://www.linkedin.com/in/isaac-arroyo/): Estudiante de último año de Ingeniería Física. Desarrolló el papel de **Científico de Datos** estando a cargo de la exploración y visualización de los datos.
-* [Rosa Sunum](https://www.linkedin.com/in/rosa-sunum-959033148/): Bióloga, estudiante de Maestría en Estadística Aplicada. A cargo del rol de **Científica de Datos** y que junto con Marleny Juárez se encargaron del proceso de la selección del modelo de predicción.
-* [Marleny Juárez Cayetano](https://www.linkedin.com/in/marleny-ju%C3%A1rez-cayetano-597a371a0/):Ingeniero en Computación. Desarrolladora de software. A cargo del rol de **Ingeniero de Datos** y que junto con Rosa Sunum se encargaron del proceso de la selección del modelo de predicción.
-* [Alexander Saravia](https://www.linkedin.com/in/alexander-saravia/): Ingeniero en Electrónica, Automatización y Control;  Estudiante de Maestría en Inteligencia Computacional y Cofundador de SunPlena Tech (IoT+AI). Desarrolló el papel de **Desarrollador Backend/Model Deployment** estando a cargo de
-* [Winter Emmanuel Alava Intriago](https://www.linkedin.com/in/winter-alava/): Estudiante del último año de Ingeniería Mecatrónica. Desarrolló el papel de **Desarrollador Móvil - UX/UI** estando a cargo de la creación e implementación de la Aplicación móvil **Safe Driver: AI for All**
+* [Cristina Higuera](https://www.linkedin.com/in/cristinah03/) :mexico: : Lic Tecnologías de Información, estudiante de Maestría en Informática Aplicada. Se desempeñó como **Product Manager** del proyecto.
+* [Isaac Arroyo](https://www.linkedin.com/in/isaac-arroyo/) :mexico: : Estudiante de último año de Ingeniería Física. Desarrolló el papel de **Científico de Datos** estando a cargo de la exploración y visualización de los datos.
+* [Rosa Sunum](https://www.linkedin.com/in/rosa-sunum-959033148/) :guatemala: : Bióloga, estudiante de Maestría en Estadística Aplicada. A cargo del rol de **Científica de Datos** y que junto con Marleny Juárez se encargaron del proceso de la selección del modelo de predicción.
+* [Marleny Juárez Cayetano](https://www.linkedin.com/in/marleny-ju%C3%A1rez-cayetano-597a371a0/) :mexico: :Ingeniero en Computación. Desarrolladora de software. A cargo del rol de **Ingeniero de Datos** y que junto con Rosa Sunum se encargaron del proceso de la selección del modelo de predicción.
+* [Alexander Saravia](https://www.linkedin.com/in/alexander-saravia/) :ecuador: : Ingeniero en Electrónica, Automatización y Control;  Estudiante de Maestría en Inteligencia Computacional y Cofundador de SunPlena Tech (IoT+AI). Desarrolló el papel de **Desarrollador Backend/Model Deployment** estando a cargo de
+* [Winter Emmanuel Alava Intriago](https://www.linkedin.com/in/winter-alava/) :ecuador: : Estudiante del último año de Ingeniería Mecatrónica. Desarrolló el papel de **Desarrollador Móvil - UX/UI** estando a cargo de la creación e implementación de la Aplicación móvil **Safe Driver: AI for All**
 
 ![equipo](figures/equipo_rosa_saturdaysai.jpg)
 
