@@ -15,12 +15,12 @@ Saturdays.AI es una organización de impacto social con la misión de impulsar a
 
 **Miembros:**
 
-* [Cristina Higuera](https://www.linkedin.com/in/cristinah03/): Se desempeñó como **Product Manager** del proyecto.
+* [Cristina Higuera](https://www.linkedin.com/in/cristinah03/): Lic Tecnologías de Información, estudiante de Maestría en Informática Aplicada. Se desempeñó como **Product Manager** del proyecto.
 * [Isaac Arroyo](https://www.linkedin.com/in/isaac-arroyo/): Estudiante de último año de Ingeniería Física. Desarrolló el papel de **Científico de Datos** estando a cargo de la exploración y visualización de los datos.
-* [Rosa Sunum](https://www.linkedin.com/in/rosa-sunum-959033148/): Desarrolló el papel **Científica de Datos** estando a cargo de  
-* [Marleny Juárez Cayetano](https://www.linkedin.com/in/marleny-ju%C3%A1rez-cayetano-597a371a0/): Desarrolló el papel de **Ingeniera de Datos** estando a cargo de
-* [Alexander Saravia](https://www.linkedin.com/in/alexander-saravia/): Desarrolló el papel de **Desarrollador Backend/Model Deployment** estando a cargo de
-* [Winter Emmanuel Alava Intriago](https://www.linkedin.com/in/winter-alava/): Desarrolló el papel de **Desarrollador Móvil - UX/UI** estando a cargo de
+* [Rosa Sunum](https://www.linkedin.com/in/rosa-sunum-959033148/): Bióloga, estudiante de Maestría en Estadística Aplicada. A cargo del rol de **Científica de Datos** y que junto con Marleny Juárez se encargaron del proceso de la selección del modelo de predicción.
+* [Marleny Juárez Cayetano](https://www.linkedin.com/in/marleny-ju%C3%A1rez-cayetano-597a371a0/):Ingeniero en Computación. Desarrolladora de software. A cargo del rol de **Ingeniero de Datos** y que junto con Rosa Sunum se encargaron del proceso de la selección del modelo de predicción.
+* [Alexander Saravia](https://www.linkedin.com/in/alexander-saravia/): Ingeniero en Electrónica, Automatización y Control;  Estudiante de Maestría en Inteligencia Computacional y Cofundador de SunPlena Tech (IoT+AI). Desarrolló el papel de **Desarrollador Backend/Model Deployment** estando a cargo de
+* [Winter Emmanuel Alava Intriago](https://www.linkedin.com/in/winter-alava/): Estudiante del último año de Ingeniería Mecatrónica. Desarrolló el papel de **Desarrollador Móvil - UX/UI** estando a cargo de la creación e implementación de la Aplicación móvil **Safe Driver: AI for All**
 
 ![equipo](figures/equipo_rosa_saturdaysai.jpg)
 
