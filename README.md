@@ -5,9 +5,10 @@ En el siguiente repositorio se encuentran los documentos, datos y _notebooks_ qu
 ![saturdaysai_latam_2020](figures/LogoLatam.png)
 
 ## ¿Qué es Saturdays.AI?
-Saturdays.AI es una organización de impacto social con la misión de impulsar a las personas a que aprendan Inteligencia Artificial de manera colaborativa a la par de estar realizando un proyecto de impacto social.
+Saturdays.AI es una organización con la misión de impulsar a las personas a que aprendan Inteligencia Artificial de manera colaborativa a la par de estar realizando un proyecto de impacto social.
 
 ## Equipo Rosa: Miembros y Mentora
+
 **Mentora:**
 * [Dra. Lea Vega Romero](https://www.linkedin.com/in/lea-vega-66a18011b/) : Maestra y Doctora en Ciencias por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV), Campus Guadalajara.
 
@@ -31,7 +32,7 @@ Los accidentes de tránsito parecen ser multidimensionales y aleatorios pero una
 
 ## Artículo de Medium
 Para saber a detalle el proceso del desarrollo les invitamos a leer los 2 artículos escritos en Medium donde explicamos lo que realizamos junto con las visualizaciones de nuestros resultados:
-* [AI for Secure Driving (Pt I)](https://www.medium.com)
+* [AI for Secure Driving (Pt I)](https://medium.com/saturdays-ai/ai-for-secure-driving-safe-driver-app-parte-i-3fe2ca2955f3)
 * [AI for Secure Driving (Pt II)](https://www.medium.com)
 
 (imagenes de los artículos)
@@ -40,10 +41,50 @@ Para saber a detalle el proceso del desarrollo les invitamos a leer los 2 artíc
 
 A continuación enlistamos las liberías de Python que usamos durante la realización del proyecto:
 
-* [NumPy](https://numpy.org/install/): `pip install numpy`
-* [Pandas](https://pandas.pydata.org/docs/getting_started/install.html): `pip install pandas`
-* [Matplotlib](https://matplotlib.org/users/installing.html): `pip install matplotlib`
-* [Seaborn](https://seaborn.pydata.org/installing.html): `pip install seaborn`
-* [Scikit-learn](https://scikit-learn.org/stable/install.html): `pip install scikit-learn`
-* [Folium](https://python-visualization.github.io/folium/installing.html): `pip install folium`
-*
+* [**NumPy**](https://numpy.org/install/): `pip install numpy`
+* [**Pandas**](https://pandas.pydata.org/docs/getting_started/install.html): `pip install pandas`
+* [**Matplotlib**](https://matplotlib.org/users/installing.html): `pip install matplotlib`
+* [**Seaborn**](https://seaborn.pydata.org/installing.html): `pip install seaborn`
+* [**Scikit-learn**](https://scikit-learn.org/stable/install.html): `pip install scikit-learn`
+* [**Folium**](https://python-visualization.github.io/folium/installing.html): `pip install folium`
+* [**Pickle**](https://docs.python.org/3/library/pickle.html#): `pip install pickle`
+* [**Graphviz**](https://graphviz.readthedocs.io/en/stable/): `pip install graphviz`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
