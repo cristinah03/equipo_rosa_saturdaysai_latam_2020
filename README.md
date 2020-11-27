@@ -32,10 +32,10 @@ Los accidentes de tránsito parecen ser multidimensionales y aleatorios pero una
 
 ## Artículo de Medium
 Para saber a detalle el proceso del desarrollo les invitamos a leer los 2 artículos escritos en Medium donde explicamos lo que realizamos junto con las visualizaciones de nuestros resultados:
-* [AI for Secure Driving (Pt I)](https://medium.com/saturdays-ai/ai-for-secure-driving-safe-driver-app-parte-i-3fe2ca2955f3)
-* [AI for Secure Driving (Pt II)](https://www.medium.com)
+* [AI for Secure Driving (Pt I) - Safe Driver App](https://medium.com/saturdays-ai/ai-for-secure-driving-safe-driver-app-parte-i-3fe2ca2955f3)
+* [AI for Secure Driving (Pt II) - Safe Driver App](https://medium.com/saturdays-ai/ai-for-secure-driving-safe-driver-app-parte-ii-552532247fd1)
 
-(imagenes de los artículos)
+![articulos](figures/articles.jpg)
 
 ## Liberías necesarias
 
